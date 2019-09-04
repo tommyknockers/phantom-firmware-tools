@@ -1,4 +1,4 @@
-# phantom-firmware-tools
+# phantomo-firmware-tools
 
 Tools for extracting, modding and re-packaging [DJI Phantom 3](http://www.dji.com/product/phantom-3/download) firmware.
 
@@ -26,7 +26,7 @@ will not be damaged. You are using the tools on your own risk.
 Documentation of the firmware format is held within [phantom-licensecheck](https://github.com/probonopd/phantom-licensecheck) project.
 Some details can be checked by looking inside the scripts in this repository.
 
-# Tools
+# Toolz
 
 Below the specific tools are described in short. Running them without parameters
 will give you details on supported commands in each of them.
